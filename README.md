@@ -104,8 +104,8 @@ Overall Complexity: **O(n²)**
 
 * N.Shanmuka Abhiram - @Abhi66679
 * V.Sathvik - @SathvikVusse
-* K.Yaswanth 
-
+* K.Yaswanth - @yaswanth
+* N. Sashank - @sashank naidu
 
 
 ## Conclusion
