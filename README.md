@@ -103,8 +103,8 @@ Overall Complexity: **O(n²)**
 ## Team Members
 
 * N.Shanmuka Abhiram - @Abhi66679
-* K.Yaswanth
-* V.Sathvik
+* V.Sathvik - @SathvikVusse
+* K.Yaswanth 
 
 
 
