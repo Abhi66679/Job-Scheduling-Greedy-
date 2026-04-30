@@ -43,7 +43,7 @@ void sortJobs() {
     }
 }
 
-// Display jobs
+
 void displayJobs() {
     printf("\n--- Jobs List ---\n");
 
@@ -53,7 +53,7 @@ void displayJobs() {
     }
 }
 
-// Greedy scheduling
+
 void scheduleJobs() {
     int result[MAX];
     int slot[MAX] = {0};
@@ -79,7 +79,7 @@ void scheduleJobs() {
     printf("Total Profit = %d\n", totalProfit);
 }
 
-// Main function
+
 int main() {
     int choice;
 
