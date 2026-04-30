@@ -29,7 +29,7 @@ void addJobs() {
     }
 }
 
-// Sort jobs by profit (descending)
+// Sort jobs by profit
 void sortJobs() {
     Job temp;
 
