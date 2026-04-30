@@ -11,7 +11,6 @@ typedef struct {
 Job jobs[MAX];
 int n;
 
-// Function to add jobs
 void addJobs() {
     printf("Enter number of jobs: ");
     scanf("%d", &n);
